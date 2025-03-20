@@ -9,10 +9,7 @@ const zhColors: Color[] = [
     pinyin: 'báo yún',
     hex: '#E5EAE8',
     rgb: [229, 234, 232],
-    cmyk: [2,
-      89,
-      0
-    ],
+    cmyk: [2, 89, 0, 0],
     desc: '',
     series: 'yellow'
   },
